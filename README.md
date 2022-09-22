@@ -1,4 +1,4 @@
-#Aufgabenstellung
+# Aufgabenstellung
 
 Das Team entwickelt eine Website, dabei sollen nachfolgende Rollen von unterschiedlichen Team-Membern umgesetzt werden. Mit Hilfe der git Funktionalität ist das gemeinsamen Projekt zu realisieren.
 
